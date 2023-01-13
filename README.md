@@ -6,7 +6,8 @@ With the spirit of reproducible research, this repository contains all the codes
 
 
 ### Executive summary
-Climate change is a phenomenon that can affect many departments including health, development, and planning. In this reseach, we perform forecasting of ground-based air temperature. We evaluate the performance of our approach by computing the RMSE values. 
+Climate change is a phenomenon that can affect many departments including health, development, and planning. In this reseach, we proposed a robust time sequence model using triple exponential smoothing method to predict ground-based air temperature values using historical values. Our model quantitively achieved improvement in capturing the seasonal variability of temperature and conducted quantitative evaluation on RMSE values.
+
 
 
 ### Code
